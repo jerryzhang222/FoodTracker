@@ -1,0 +1,1111 @@
+,date,description,amount,category
+0,2015-12-04,Beer Bistro,36.66,restaurants
+1,2015-12-04,Ginger,9.31,
+2,2015-12-04,Tim Horton's,1.56,coffee shops
+3,2015-12-03,Ritual Mio Exp,6.87,
+4,2015-12-03,Rabba Fine Foods,7.29,groceries
+5,2015-12-03,Hbc Foodwares M,7.12,
+6,2015-12-03,Kathi Roll,11.85,
+7,2015-12-02,Rabba Fine Foods,2.81,groceries
+8,2015-12-02,Tim Horton's,3.14,coffee shops
+9,2015-12-02,Longo,5.91,groceries
+10,2015-12-01,Sheraton,90.4,hotel
+11,2015-12-01,Internet Banking Internet,53.99,income
+12,2015-12-01,Hbc Foodwares M,4.71,
+13,2015-12-01,Sushi Inn Japan,17.65,restaurants
+14,2015-12-01,Internet Banking Internet,10000.0,income
+15,2015-12-01,Dacbiet Burger,9.6,fast food
+16,2015-11-30,McDonald's,5.64,fast food
+17,2015-11-30,Homemade Ramen,4.21,restaurants
+18,2015-11-30,Starbucks,22.34,coffee shops
+19,2015-11-30,Account Maintenance Fee,98.9,bank fee
+20,2015-11-30,Four Seasons,48.0,hotel
+21,2015-11-30,Wish Restaurant,50.68,restaurants
+22,2015-11-30,Rabba Fine Foods,4.16,groceries
+23,2015-11-30,Second Cup,3.94,coffee shops
+24,2015-11-30,Shoppers Drug Mart,41.8,pharmacy
+25,2015-11-30,Canadian Tire,3.36,shopping
+26,2015-11-30,Sorry Coffee,4.8,coffee shops
+27,2015-11-30,Sassafraz,94.86,restaurants
+28,2015-11-30,Cacao,11.87,
+29,2015-11-30,Account Maintenance Fee,98.9,bank fee
+30,2015-11-30,Fred's Inc,7.11,shopping
+31,2015-11-30,Xing Wu Shi,30.02,
+32,2015-11-30,Tim Horton's,3.14,coffee shops
+33,2015-11-30,Passbook Fee,2.25,fees & charges
+34,2015-11-27,Hbc Foodwares,11.62,
+35,2015-11-27,Transfer Pay Cpp,1452.62,investments
+36,2015-11-27,McDonald's,1.77,fast food
+37,2015-11-27,Hbc Foodwares M,2.4,
+38,2015-11-27,Como En Casa,14.04,
+39,2015-11-26,Marche Restaura,5.52,restaurants
+40,2015-11-26,Longo,6.48,groceries
+41,2015-11-26,ATM Instant Teller,200.0,cash & atm
+42,2015-11-25,St Louis Bar,12.66,alcohol & bars
+43,2015-11-25,International N,2.0,
+44,2015-11-25,A & W,1.84,fast food
+45,2015-11-25,Longo,7.31,groceries
+46,2015-11-25,Tim Horton's,3.14,coffee shops
+47,2015-11-24,Hbc Foodwares M,4.71,
+48,2015-11-24,Hbc Foodwares,11.85,
+49,2015-11-23,Rabba Fine Foods,1.46,groceries
+50,2015-11-23,Khao San Road,19.49,restaurants
+51,2015-11-23,Shopper Drug,4.51,pharmacy
+52,2015-11-23,Ginger,15.8,
+53,2015-11-23,Longo,7.6,groceries
+54,2015-11-23,Longo,6.22,groceries
+55,2015-11-23,Nohohon Tea Roo,4.15,coffee shops
+56,2015-11-23,Rabba Fine Foods,3.99,groceries
+57,2015-11-23,Prenup Pub,8.19,alcohol & bars
+58,2015-11-20,Shoppers Drug Mart,1.46,pharmacy
+59,2015-11-20,Shoppers Drug Mart,5.0,pharmacy
+60,2015-11-20,Sport Chek,15.81,clothing
+61,2015-11-20,Ethiopian House,25.02,restaurants
+62,2015-11-19,Hbc Foodwares M,4.71,
+63,2015-11-19,Fine,15.16,
+64,2015-11-19,Tokyo Kitchen L,18.71,restaurants
+65,2015-11-18,Longo,6.05,groceries
+66,2015-11-18,Longo,13.41,groceries
+67,2015-11-17,Intl Deb Koding,33.58,
+68,2015-11-17,McDonald's,1.46,fast food
+69,2015-11-17,Intl Deb Yesware,20.56,
+70,2015-11-17,Little Sister,36.83,
+71,2015-11-17,Td ATM Withdrawal,800.0,cash & atm
+72,2015-11-16,Longo,30.89,groceries
+73,2015-11-16,Internet Banking Internet,3000.0,bills & utilities
+74,2015-11-16,Stag Shop,20.78,
+75,2015-11-16,Sushi Q,4.03,restaurants
+76,2015-11-16,Hbc Foodwares,11.62,
+77,2015-11-16,Sushi Inn Japan,12.37,restaurants
+78,2015-11-16,Starbucks,20.0,coffee shops
+79,2015-11-16,Shoppers Drug Mart,25.99,pharmacy
+80,2015-11-16,Norton,100.0,electronics & software
+81,2015-11-16,Winners,9.03,clothing
+82,2015-11-16,Caffe Di Portic,23.32,restaurants
+83,2015-11-16,Tim Horton's,3.14,coffee shops
+84,2015-11-16,Mdse Return Source,249.44,income
+85,2015-11-16,Norton,40.0,electronics & software
+86,2015-11-16,Ginger,7.9,
+87,2015-11-16,Longo,10.52,groceries
+88,2015-11-13,Hbc Foodwares M,4.71,
+89,2015-11-13,Hbc Foodwares,3.45,
+90,2015-11-13,Transfer Pay Cpp,1452.62,investments
+91,2015-11-13,Extreme Pita,7.2,fast food
+92,2015-11-13,McDonald's,1.46,fast food
+93,2015-11-13,Diamond Taxi,9.0,rental car & taxi
+94,2015-11-13,Hbc Foodwares,11.62,
+95,2015-11-12,McDonald's,2.09,fast food
+96,2015-11-12,Chatime,4.75,
+97,2015-11-12,La Bettola Di,22.09,restaurants
+98,2015-11-12,Richtree Restau,9.79,
+99,2015-11-10,Rabba Fine Foods,5.49,groceries
+100,2015-11-10,Papyrus,7.85,
+101,2015-11-10,Longo,20.73,groceries
+102,2015-11-09,A & W,1.84,fast food
+103,2015-11-09,Tim Horton's,1.5,coffee shops
+104,2015-11-09,7-Eleven,3.15,fast food
+105,2015-11-09,Rabba Fine Foods,1.8,groceries
+106,2015-11-09,McDonald's,1.46,fast food
+107,2015-11-09,Longo,6.33,groceries
+108,2015-11-09,Opa North Y,10.84,
+109,2015-11-09,ATM Instant Teller,80.0,cash & atm
+110,2015-11-06,Tim Horton's,3.14,coffee shops
+111,2015-11-06,McDonald's,10.16,fast food
+112,2015-11-06,Cactus Club Fir,39.64,restaurants
+113,2015-11-05,Longo,8.44,groceries
+114,2015-11-05,Sushi Inn Japan,12.37,restaurants
+115,2015-11-05,Tim Horton's,3.14,coffee shops
+116,2015-11-04,McDonald's,3.14,fast food
+117,2015-11-04,Tlp,14.97,
+118,2015-11-04,McDonald's,3.23,fast food
+119,2015-11-04,Tim Horton's,3.14,coffee shops
+120,2015-11-04,Tim Horton's,3.14,coffee shops
+121,2015-11-03,McDonald's,2.5,fast food
+122,2015-11-03,Sushi Inn Japan,13.85,restaurants
+123,2015-11-03,Amaya Express,10.16,
+124,2015-11-03,Tim Horton's,3.14,coffee shops
+125,2015-11-02,Airpo,4.19,
+126,2015-11-02,Ttc Queen Pvm,112.0,public transportation
+127,2015-11-02,Mac's,1.98,shopping
+128,2015-11-02,Hbc Foodwares,13.55,
+129,2015-11-02,Booster Juice,7.96,fast food
+130,2015-10-31,Sheraton,90.4,hotel
+131,2015-10-30,Sheraton,90.4,hotel
+132,2015-10-30,Account Maintenance Fee,109.9,bank fee
+133,2015-10-30,Branch E Transfer,1.5,transfer
+134,2015-10-30,Transfer Pay Cpp,1452.62,investments
+135,2015-10-30,Account Maintenance Fee,109.9,bank fee
+136,2015-10-30,Passbook Fee,2.25,fees & charges
+137,2015-10-29,Fresh Slice Piz,5.65,fast food
+138,2015-10-29,Bay,37.13,
+139,2015-10-29,ATM Instant Teller,100.0,cash & atm
+140,2015-10-29,Sask Liq Gami,30.48,alcohol & bars
+141,2015-10-29,Rabba Fine Foods,4.5,groceries
+142,2015-10-29,Bon Temps Cafe,16.42,restaurants
+143,2015-10-28,Longo,29.29,groceries
+144,2015-10-28,Tim Horton's,3.14,coffee shops
+145,2015-10-28,Sushi Inn Japan,13.85,restaurants
+146,2015-10-28,Uber,7.66,alcohol & bars
+147,2015-10-27,Hbc Foodwares M,4.19,
+148,2015-10-27,Sassafraz,38.99,restaurants
+149,2015-10-27,Shoppers Drug Mart,17.49,pharmacy
+150,2015-10-27,Longo,28.31,groceries
+151,2015-10-27,Rabba Fine Foods,6.99,groceries
+152,2015-10-27,Buk Chang Dong,9.9,restaurants
+153,2015-10-26,Internet Banking Internet,53.99,income
+154,2015-10-26,Church Street G,26.52,
+155,2015-10-26,Hbc Foodwares,11.85,
+156,2015-10-26,Rabba Fine Foods,2.25,groceries
+157,2015-10-26,Surasang,11.7,
+158,2015-10-26,Sassafraz,28.59,restaurants
+159,2015-10-26,Internet Banking Internet,68.0,income
+160,2015-10-26,Natural Sushi,10.16,restaurants
+161,2015-10-26,Hbc Foodwares M,3.94,
+162,2015-10-26,H&M,33.89,clothing
+163,2015-10-26,Hbc Foodwares M,4.19,
+164,2015-10-23,Sushi Q,4.03,restaurants
+165,2015-10-23,Internet Banking Internet,1000.0,bills & utilities
+166,2015-10-23,Canoe,45.88,
+167,2015-10-23,Fred's Inc,19.2,shopping
+168,2015-10-23,Hbc Foodwares M,4.19,
+169,2015-10-23,Ttc Queen Stati,39.0,public transportation
+170,2015-10-23,Tim Horton's,3.14,coffee shops
+171,2015-10-22,Lets Be Frank,28.1,
+172,2015-10-22,Sushi Q,4.03,restaurants
+173,2015-10-22,Metro,5.99,groceries
+174,2015-10-22,Yogen Fruz,4.86,fast food
+175,2015-10-21,Bay,146.89,
+176,2015-10-21,A & W,1.84,fast food
+177,2015-10-21,Tim Horton's,3.14,coffee shops
+178,2015-10-20,Rabba Fine Foods,6.24,groceries
+179,2015-10-20,Intl Deb Koding,14.81,
+180,2015-10-20,A & W,1.84,fast food
+181,2015-10-20,Fast Fresh Food,10.75,food & dining
+182,2015-10-20,Longo,6.05,groceries
+183,2015-10-20,Tim Horton's,3.14,coffee shops
+184,2015-10-19,ATM Fee,3.0,atm fee
+185,2015-10-19,ATM Instant Teller,40.0,cash & atm
+186,2015-10-19,Richmond Statio,84.47,
+187,2015-10-19,Pizzaiolo,4.19,restaurants
+188,2015-10-19,Natural Sushi,11.17,restaurants
+189,2015-10-19,Longo,6.61,groceries
+190,2015-10-19,Tim Horton's,1.56,coffee shops
+191,2015-10-19,Bay,624.33,
+192,2015-10-19,Tim Horton's,3.14,coffee shops
+193,2015-10-19,Shoppers Drug Mart,4.51,pharmacy
+194,2015-10-19,Transfer Network Fee,1.5,transfer
+195,2015-10-19,Dollarama,4.8,shopping
+196,2015-10-19,Longo,22.04,groceries
+197,2015-10-19,Taco Bell,19.2,fast food
+198,2015-10-19,Intl Deb Koding,16.58,
+199,2015-10-19,Tim Horton's,1.56,coffee shops
+200,2015-10-19,Longo,27.42,groceries
+201,2015-10-19,Rabba Fine Foods,2.99,groceries
+202,2015-10-19,Moroco,19.84,
+203,2015-10-19,Rabba Fine Foods,5.93,groceries
+204,2015-10-19,Stag Shop,20.78,
+205,2015-10-16,Burrito Boyz,18.0,
+206,2015-10-16,ATM Instant Teller,80.0,cash & atm
+207,2015-10-16,Source,249.44,
+208,2015-10-16,Transfer Pay Cpp,1452.62,investments
+209,2015-10-16,Grace O Malleys,7.48,
+210,2015-10-15,Richtree Restau,11.75,
+211,2015-10-15,McDonald's,2.09,fast food
+212,2015-10-15,Yogen Fruz,3.99,fast food
+213,2015-10-15,Ginger,8.13,
+214,2015-10-14,Air Can,511.7,air travel
+215,2015-10-14,Mdse Return Source,28.46,income
+216,2015-10-14,Longo,28.8,groceries
+217,2015-10-14,Ethiopian House,16.06,restaurants
+218,2015-10-13,Pizza Pizza,19.2,fast food
+219,2015-10-13,Rabba Fine Foods,5.49,groceries
+220,2015-10-13,Fred's Inc,5.92,shopping
+221,2015-10-13,Hemingway,38.25,
+222,2015-10-13,Ttc Yonge Blo,39.0,public transportation
+223,2015-10-13,Sassafraz,57.18,restaurants
+224,2015-10-13,Rabba Fine Foods,11.25,groceries
+225,2015-10-13,Natural Sushi,16.44,restaurants
+226,2015-10-13,Longo,11.24,groceries
+227,2015-10-13,Longo,28.6,groceries
+228,2015-10-09,Tim Horton's,3.14,coffee shops
+229,2015-10-09,Burrito Boyz,8.5,
+230,2015-10-09,Sassafraz,120.85,restaurants
+231,2015-10-08,Tim Horton's,3.14,coffee shops
+232,2015-10-08,Sansotei Ramen,17.35,restaurants
+233,2015-10-08,Sushi Q,4.03,restaurants
+234,2015-10-08,Jugo Juice,10.62,fast food
+235,2015-10-08,Tim Horton's,3.14,coffee shops
+236,2015-10-08,Rabba Fine Foods,2.25,groceries
+237,2015-10-07,Longo,14.1,groceries
+238,2015-10-07,Tim Horton's,3.14,coffee shops
+239,2015-10-06,Sin Redemptio,30.06,
+240,2015-10-06,Internet Banking E,15.0,transfer
+241,2015-10-06,Purchase Jw,39.0,home improvement
+242,2015-10-06,Uber,21.89,alcohol & bars
+243,2015-10-05,ATM Instant Teller,100.0,cash & atm
+244,2015-10-05,Original An,12.98,restaurants
+245,2015-10-05,Tim Horton's,1.04,coffee shops
+246,2015-10-05,Internet Banking Internet,0.23,bills & utilities
+247,2015-10-05,Pizza Pizza,10.16,fast food
+248,2015-10-05,Longo,4.7,groceries
+249,2015-10-05,Longo,14.5,groceries
+250,2015-10-05,Rabba Fine Foods,2.25,groceries
+251,2015-10-05,Waterloo Square,6.0,groceries
+252,2015-10-05,Tim Horton's,3.14,coffee shops
+253,2015-10-05,La Prep,4.08,
+254,2015-10-05,Bay,11.29,
+255,2015-10-05,Falafel House,6.77,
+256,2015-10-05,Rabba Fine Foods,3.15,groceries
+257,2015-10-02,Hbc Foodwares,14.68,
+258,2015-10-02,Transfer Pay Cpp,1452.62,investments
+259,2015-10-02,Hbc Foodwares,11.85,
+260,2015-10-01,Tim Horton's,5.06,coffee shops
+261,2015-10-01,Longo,13.46,groceries
+262,2015-10-01,Sukho Thai,27.3,restaurants
+263,2015-10-01,Transfer Deposit Bbs,0.23,transfer
+264,2015-09-30,Natural Sushi,13.66,restaurants
+265,2015-09-30,Longo,12.55,groceries
+266,2015-09-30,Marshalls,19.2,clothing
+267,2015-09-30,Longo,3.99,groceries
+268,2015-09-30,Branch Deposit Ibb,20.0,income
+269,2015-09-30,Winners,40.65,clothing
+270,2015-09-30,Branch Deposit Ibb,1000.0,income
+271,2015-09-30,Account Maintenance Fee,77.9,bank fee
+272,2015-09-30,Freshly Squeeze,5.02,
+273,2015-09-30,Branch E Transfer,1.5,transfer
+274,2015-09-30,Account Maintenance Fee,77.9,bank fee
+275,2015-09-30,Mdse Return H,39.54,income
+276,2015-09-30,Passbook Fee,2.25,fees & charges
+277,2015-09-29,Longo,7.91,groceries
+278,2015-09-29,Internet Banking E,30.0,transfer
+279,2015-09-29,Ginger,8.54,
+280,2015-09-29,Sushi Q,4.03,restaurants
+281,2015-09-28,Longo,9.98,groceries
+282,2015-09-28,Longo,15.27,groceries
+283,2015-09-28,PurchaseTix,35.0,entertainment
+284,2015-09-28,A & W,6.22,fast food
+285,2015-09-28,Rabba Fine Foods,2.25,groceries
+286,2015-09-28,Richtree Restau,11.26,
+287,2015-09-28,Tim Horton's,1.04,coffee shops
+288,2015-09-28,H&M,79.08,clothing
+289,2015-09-25,Sushi Q,3.03,restaurants
+290,2015-09-25,Lou Dawg,12.97,
+291,2015-09-25,Ttc,39.0,public transportation
+292,2015-09-25,Fine,11.79,
+293,2015-09-25,Sushi Q,4.03,restaurants
+294,2015-09-24,ATM Instant Teller,40.0,cash & atm
+295,2015-09-23,Natural Sushi,14.03,restaurants
+296,2015-09-22,Longo,13.67,groceries
+297,2015-09-22,Longo,20.18,groceries
+298,2015-09-21,Burrito Boyz No,8.5,
+299,2015-09-21,Longo,24.71,groceries
+300,2015-09-21,Longo,51.49,groceries
+301,2015-09-21,Winners,44.02,clothing
+302,2015-09-21,Aura Sushi,8.48,restaurants
+303,2015-09-21,Longo,8.98,groceries
+304,2015-09-21,Mzaar,10.15,
+305,2015-09-21,Rabba Fine Foods,2.25,groceries
+306,2015-09-21,ATM Instant Teller,850.0,cash & atm
+307,2015-09-21,LCBO,22.95,alcohol & bars
+308,2015-09-21,Ginger,8.13,
+309,2015-09-21,Norton,40.0,electronics & software
+310,2015-09-21,McDonald's,1.46,fast food
+311,2015-09-21,Stag Shop,27.68,
+312,2015-09-21,Longo,24.68,groceries
+313,2015-09-18,Eaton,9.93,business services
+314,2015-09-18,Longo,6.19,groceries
+315,2015-09-18,Longo,12.02,groceries
+316,2015-09-18,Rabba Fine Foods,1.47,groceries
+317,2015-09-18,A & W,1.84,fast food
+318,2015-09-18,Transfer Pay Cpp,1337.31,investments
+319,2015-09-17,Drake One Fifty,33.79,
+320,2015-09-17,Richtree Restau,3.76,
+321,2015-09-16,Richtree Restau,6.31,
+322,2015-09-16,Rabba Fine Foods,1.99,groceries
+323,2015-09-16,La Prep,3.77,
+324,2015-09-16,Longo,11.75,groceries
+325,2015-09-15,The Body Shop,24.3,hair
+326,2015-09-15,Richtree Restau,10.29,
+327,2015-09-15,Rabba Fine Foods,1.68,groceries
+328,2015-09-15,Richtree Restau,14.09,
+329,2015-09-15,Shoppers Drug Mart,18.66,pharmacy
+330,2015-09-15,A & W,1.84,fast food
+331,2015-09-15,La Prep,3.77,
+332,2015-09-14,Burrito Boyz,8.5,
+333,2015-09-14,Bay,37.29,
+334,2015-09-14,A & W,1.84,fast food
+335,2015-09-14,Hokkaido Ramen,15.6,restaurants
+336,2015-09-14,Source,28.46,
+337,2015-09-14,Rabba Fine Foods,2.81,groceries
+338,2015-09-14,Bay,100.68,
+339,2015-09-14,Winners,42.78,clothing
+340,2015-09-14,Shoppers Drug Mart,7.9,pharmacy
+341,2015-09-14,Rabba Fine Foods,0.36,groceries
+342,2015-09-14,Zenq,6.12,
+343,2015-09-11,ATM Instant Teller,800.0,cash & atm
+344,2015-09-11,ATM Correction Yonge,800.0,income
+345,2015-09-11,ATM Instant Teller,800.0,cash & atm
+346,2015-09-11,ATM Instant Teller,200.0,cash & atm
+347,2015-09-11,Richtree Restau,13.71,
+348,2015-09-11,La Prep,1.88,
+349,2015-09-11,Hbc Foodwares M,2.4,
+350,2015-09-10,Richtree Restau,2.09,
+351,2015-09-10,Royal,11.25,financial
+352,2015-09-10,Akrem Taxi,11.67,rental car & taxi
+353,2015-09-09,KFC,4.19,fast food
+354,2015-09-09,Hbc Foodwares M,6.22,
+355,2015-09-09,Eaton,9.25,business services
+356,2015-09-08,Dineen Coffee C,3.0,coffee shops
+357,2015-09-08,Tim Horton's,3.0,coffee shops
+358,2015-09-08,Richtree Restau,2.25,
+359,2015-09-08,Fine,16.46,
+360,2015-08-31,Account Maintenance Fee,45.9,bank fee
+361,2015-08-31,Account Maintenance Fee,45.9,bank fee
+362,2015-08-24,T Starbu,20.0,coffee shops
+363,2015-08-20,Starbucks,0.32,coffee shops
+364,2015-08-20,Koko Share Bar,14.29,alcohol & bars
+365,2015-08-20,Internet Banking Internet,1289.3,income
+366,2015-08-20,Royal,23.25,financial
+367,2015-08-20,Valley Point,10.97,
+368,2015-08-20,Internet Banking Internet,53.99,income
+369,2015-08-19,Aldo,36.14,clothing
+370,2015-08-19,Abercrombie & Fitch,91.53,clothing
+371,2015-08-18,St Louis Bar,21.56,alcohol & bars
+372,2015-08-18,Michael Angelo,9.31,
+373,2015-08-17,Michael Angelo,13.78,
+374,2015-08-17,Bay,220.35,
+375,2015-08-17,Burrito Boyz No,8.5,
+376,2015-08-17,Gusto,112.39,
+377,2015-08-17,Winners,7.9,clothing
+378,2015-08-17,Chinese Ap,145.2,restaurants
+379,2015-08-17,LCBO,58.05,alcohol & bars
+380,2015-08-17,Paintlounge,96.02,alcohol & bars
+381,2015-08-17,T & T Supermarket,6.77,groceries
+382,2015-08-17,Esso,2.25,gas & fuel
+383,2015-08-14,Federation Expr,16.34,
+384,2015-08-14,Works Water,25.39,restaurants
+385,2015-08-13,Shoeless Joe,27.55,
+386,2015-08-13,Grab A Greek,10.67,restaurants
+387,2015-08-12,Beertown Waterl,29.71,alcohol & bars
+388,2015-08-12,Kabob Hut,10.15,
+389,2015-08-11,Federation Expr,2.25,
+390,2015-08-10,Burger King,1.04,fast food
+391,2015-08-10,Federation Expr,7.49,
+392,2015-08-10,Federation Expr,2.45,
+393,2015-08-10,Sowon Restauran,11.38,restaurants
+394,2015-08-10,Williams Coffee,9.03,coffee shops
+395,2015-08-10,Federation Expr,4.51,
+396,2015-08-10,Williams Coffee,2.4,coffee shops
+397,2015-08-10,Williams Coffee,1.98,coffee shops
+398,2015-08-10,Second Cup,2.21,coffee shops
+399,2015-08-10,Williams Coffee,11.29,coffee shops
+400,2015-08-10,Federation Expr,1.85,
+401,2015-08-10,Williams Coffee,11.29,coffee shops
+402,2015-08-07,Burrito Boyz,10.0,
+403,2015-08-07,Chatime Waterlo,5.88,
+404,2015-08-07,ATM Instant Teller,200.0,cash & atm
+405,2015-08-07,Williams Coffee,11.29,coffee shops
+406,2015-08-07,Harvey's,1.04,groceries
+407,2015-08-07,Federation Expr,9.82,
+408,2015-08-06,Burger King,6.54,fast food
+409,2015-08-06,Williams Coffee,6.77,coffee shops
+410,2015-08-06,Williams Coffee,1.98,coffee shops
+411,2015-08-06,Grab A Greek,6.75,restaurants
+412,2015-08-06,Williams Coffee,11.29,coffee shops
+413,2015-08-05,Kabob Hut,11.71,
+414,2015-08-04,Keg Steakhouse,45.75,restaurants
+415,2015-08-04,Internet Banking Internet,125.0,income
+416,2015-08-04,Burger King,6.77,fast food
+417,2015-08-04,Internet Banking Internet,30.08,income
+418,2015-08-04,Waterloo Star,15.18,restaurants
+419,2015-08-04,United Airlines,2205.46,air travel
+420,2015-07-31,Federation Expr,5.56,
+421,2015-07-31,Account Maintenance Fee,50.9,bank fee
+422,2015-07-31,Account Maintenance Fee,50.9,bank fee
+423,2015-07-31,Federation Expr,9.58,
+424,2015-07-29,Burger King,2.71,fast food
+425,2015-07-28,Waterloo Star,8.85,restaurants
+426,2015-07-27,Tim Horton's,2.35,coffee shops
+427,2015-07-27,Tim Horton's,1.04,coffee shops
+428,2015-07-27,Bon Appetit,12.08,restaurants
+429,2015-07-24,Mozy,19.41,electronics & software
+430,2015-07-24,Pharmasave,22.57,pharmacy
+431,2015-07-24,Federation Expr,2.25,
+432,2015-07-24,Greyhound,20.57,travel
+433,2015-07-24,Huether Hotel,40.21,hotel
+434,2015-07-23,Bon Appetit,12.08,restaurants
+435,2015-07-23,PurchaseTix,11.84,entertainment
+436,2015-07-22,Almadina Egypti,11.39,
+437,2015-07-22,Federation Expr,1.7,
+438,2015-07-21,Bon Appetit,12.08,restaurants
+439,2015-07-21,Kabob Hut,11.25,
+440,2015-07-20,Uw Brubakers,9.03,
+441,2015-07-20,Federation Expr,2.7,
+442,2015-07-20,McDonald's,2.72,fast food
+443,2015-07-20,ATM Instant Teller,300.0,cash & atm
+444,2015-07-20,Shell,3.5,gas & fuel
+445,2015-07-20,Federation Expr,2.7,
+446,2015-07-20,Swiss Chalet,19.88,restaurants
+447,2015-07-17,Nuri,12.64,
+448,2015-07-17,Federation Expr,4.51,
+449,2015-07-16,Heaven Gastro C,28.58,
+450,2015-07-15,Grab A Greek,10.67,restaurants
+451,2015-07-15,Bon Appetit,12.08,restaurants
+452,2015-07-14,Bon Appetit,12.08,restaurants
+453,2015-07-13,Bon Appetit,12.08,restaurants
+454,2015-07-13,Internet Bar,1000.0,coffee shops
+455,2015-07-13,Federation Expr,4.81,
+456,2015-07-13,Harvey's,1.04,groceries
+457,2015-07-13,Federation Expr,1.85,
+458,2015-07-13,Heaven Gastro C,28.58,
+459,2015-07-13,Williams Coffee,1.46,coffee shops
+460,2015-07-10,Grill Burge,12.26,restaurants
+461,2015-07-09,Pho Nomenon Res,9.93,restaurants
+462,2015-07-08,Bon Appetit,12.08,restaurants
+463,2015-07-07,Bon Appetit,12.08,restaurants
+464,2015-07-06,Shoppers Drug Mart,2.81,pharmacy
+465,2015-07-06,Uw Housing Offi,500.0,
+466,2015-07-06,The Body Shop,62.55,hair
+467,2015-07-06,Second Cup,3.96,coffee shops
+468,2015-07-06,McDonald's,2.61,fast food
+469,2015-07-06,Cora Breakfast,15.88,restaurants
+470,2015-07-06,Winners,22.59,clothing
+471,2015-07-06,Panda King,8.46,
+472,2015-07-06,Royal,22.0,financial
+473,2015-07-03,Harvey's,9.93,groceries
+474,2015-07-03,Williams Coffee,1.67,coffee shops
+475,2015-07-02,McDonald's,2.61,fast food
+476,2015-07-02,Mozy,8.12,electronics & software
+477,2015-07-02,McDonald's,2.09,fast food
+478,2015-07-02,Chatime Waterlo,5.31,
+479,2015-07-02,Williams Coffee,1.88,coffee shops
+480,2015-07-02,McDonald's,4.19,fast food
+481,2015-06-30,Account Maintenance Fee,62.9,bank fee
+482,2015-06-30,7-Eleven,25.75,fast food
+483,2015-06-30,Account Maintenance Fee,62.9,bank fee
+484,2015-06-30,Burrito Boyz,9.5,
+485,2015-06-29,ATM Instant Teller,200.0,cash & atm
+486,2015-06-29,Domino's Pizza,20.0,fast food
+487,2015-06-29,Williams Coffee,11.29,coffee shops
+488,2015-06-29,Bay,62.13,
+489,2015-06-29,Waterloo Star,10.97,restaurants
+490,2015-06-29,Federation Expr,8.44,
+491,2015-06-29,Internet Banking Internet,178.44,income
+492,2015-06-25,Federation Expr,4.49,
+493,2015-06-25,Bon Appetit,15.45,restaurants
+494,2015-06-24,Bon Appetit,12.08,restaurants
+495,2015-06-23,W Burger Bar,13.32,fast food
+496,2015-06-23,Bon Appetit,10.16,restaurants
+497,2015-06-23,McDonald's,4.62,fast food
+498,2015-06-23,Ehwa J Bar,53.38,alcohol & bars
+499,2015-06-23,Union Station B,100.0,public transportation
+500,2015-06-22,Federation Expr,2.25,
+501,2015-06-22,Kabob Hut,11.71,
+502,2015-06-22,Shoes.com,79.08,clothing
+503,2015-06-22,Almadina Egypti,11.39,
+504,2015-06-22,Amazon,29.53,shopping
+505,2015-06-22,Heaven Gastro C,16.88,
+506,2015-06-22,Petro Canada,3.38,gas & fuel
+507,2015-06-19,Bon Appetit,12.08,restaurants
+508,2015-06-18,Bon Appetit,12.08,restaurants
+509,2015-06-18,Federation Expr,1.7,
+510,2015-06-17,Federation Expr,4.17,
+511,2015-06-17,Williams Coffee,11.29,coffee shops
+512,2015-06-16,ATM Instant Teller,200.0,cash & atm
+513,2015-06-15,Sobeys,103.24,groceries
+514,2015-06-15,Starbucks,15.0,coffee shops
+515,2015-06-15,Bon Appetit,12.08,restaurants
+516,2015-06-15,Symposium Cafe,14.17,restaurants
+517,2015-06-15,Tim Horton's,3.26,coffee shops
+518,2015-06-12,Yogen Fruz,3.04,fast food
+519,2015-06-12,Federation Expr,10.19,
+520,2015-06-12,McDonald's,4.62,fast food
+521,2015-06-11,Federation Expr,4.17,
+522,2015-06-11,Federation Expr,7.1,
+523,2015-06-10,ATM Instant Teller,100.0,cash & atm
+524,2015-06-10,Bon Appetit,12.08,restaurants
+525,2015-06-10,Federation Expr,9.34,
+526,2015-06-09,Harvey's,6.43,groceries
+527,2015-06-09,AliExpress,12.72,shopping
+528,2015-06-08,ATM Fee,4.0,atm fee
+529,2015-06-08,ATM Instant Teller,100.0,cash & atm
+530,2015-06-08,Transfer Network Fee,1.5,transfer
+531,2015-06-08,Porter Airlines,84.75,air travel
+532,2015-06-08,Bon Appetit,12.08,restaurants
+533,2015-06-08,Nates Deli,17.71,restaurants
+534,2015-06-08,Royal,31.84,financial
+535,2015-06-08,McDonald's,2.75,fast food
+536,2015-06-08,Empire,23.0,
+537,2015-06-08,Tim Horton's,2.19,coffee shops
+538,2015-06-08,Via Rail,36.16,
+539,2015-06-08,Blue Line,37.75,
+540,2015-06-08,Booster Juice,6.72,fast food
+541,2015-06-08,Leisure Starbuc,5.33,
+542,2015-06-08,McDonald's,1.6,fast food
+543,2015-06-08,Shoppers Drug Mart,10.93,pharmacy
+544,2015-06-08,Correction Blue Line,37.75,income
+545,2015-06-08,LCBO,11.75,alcohol & bars
+546,2015-06-05,Internat,6.2,
+547,2015-06-05,Winners,50.83,clothing
+548,2015-06-05,La Jolie Femme,32.48,
+549,2015-06-05,Federation Expr,1.85,
+550,2015-06-04,Tim Horton's,1.04,coffee shops
+551,2015-06-04,Bon Appetit,12.08,restaurants
+552,2015-06-03,Internet Banking Internet,4500.0,income
+553,2015-06-03,Menchie Froze,6.33,
+554,2015-06-03,Williams Coffee,11.29,coffee shops
+555,2015-06-02,Bon Appetit,12.08,restaurants
+556,2015-06-01,Bon Appetit,12.08,restaurants
+557,2015-06-01,Global Vision,100.0,
+558,2015-06-01,ATM Instant Teller,200.0,cash & atm
+559,2015-06-01,Porter Air,466.85,air travel
+560,2015-05-29,Account Maintenance Fee,56.9,bank fee
+561,2015-05-29,Bengal Auto,100.0,
+562,2015-05-29,Nuri,12.64,
+563,2015-05-29,Account Maintenance Fee,56.9,bank fee
+564,2015-05-29,George Hami,11.7,
+565,2015-05-29,Passbook Fee,2.25,fees & charges
+566,2015-05-28,Federation Expr,2.7,
+567,2015-05-27,Grab A Greek,8.28,restaurants
+568,2015-05-27,Federation Expr,10.7,
+569,2015-05-26,Harvey's,7.0,groceries
+570,2015-05-26,Federation Expr,1.85,
+571,2015-05-25,Internet Banking E,1500.0,transfer
+572,2015-05-25,Williams Coffee,11.29,coffee shops
+573,2015-05-25,The Body Shop,16.27,hair
+574,2015-05-25,Arms,19.49,restaurants
+575,2015-05-25,Bay,38.42,
+576,2015-05-22,Purchase Jw,6.61,home improvement
+577,2015-05-22,Ben,164.98,clothing
+578,2015-05-22,Winners,37.27,clothing
+579,2015-05-22,Purchase Jw,6.89,home improvement
+580,2015-05-22,South St Burge,13.11,
+581,2015-05-22,Frank Oak Sto,134.47,
+582,2015-05-21,ATM Instant Teller,100.0,cash & atm
+583,2015-05-21,Uw Davis Centre,50.0,
+584,2015-05-20,Bon Appetit,7.06,restaurants
+585,2015-05-19,Federation Expr,1.12,
+586,2015-05-19,Internet Banking E,1500.0,transfer
+587,2015-05-19,Federation Expr,4.61,
+588,2015-05-19,Williams Coffee,3.98,coffee shops
+589,2015-05-19,Shell,2.02,gas & fuel
+590,2015-05-19,Kabob Hut,10.15,
+591,2015-05-19,Williams Coffee,3.98,coffee shops
+592,2015-05-19,Shell,9.49,gas & fuel
+593,2015-05-19,McDonald's,2.1,fast food
+594,2015-05-19,Williams Coffee,5.52,coffee shops
+595,2015-05-19,Farahs Food,9.0,food & dining
+596,2015-05-19,Harvey's,7.56,groceries
+597,2015-05-19,Harvey's,1.77,groceries
+598,2015-05-19,Federation Expr,2.7,
+599,2015-05-15,Federation Expr,1.72,
+600,2015-05-15,Grab A Greek,7.06,restaurants
+601,2015-05-14,Transfer Pay Cibc,161.37,transfer
+602,2015-05-14,Bon Appetit,7.06,restaurants
+603,2015-05-12,Grab A Greek,7.16,restaurants
+604,2015-05-12,Federation Expr,5.79,
+605,2015-05-11,ATM Instant Teller,200.0,cash & atm
+606,2015-05-11,Heaven Gastro C,17.72,
+607,2015-05-11,Sobeys,101.34,groceries
+608,2015-05-11,Harvey's,4.18,groceries
+609,2015-05-11,Kabob Hut,6.76,
+610,2015-05-11,Bon Appetit,7.06,restaurants
+611,2015-05-08,Uw Brubakers,8.46,
+612,2015-05-06,Almadina Egypti,11.29,
+613,2015-05-05,Mr Paninos,8.5,
+614,2015-05-04,Freshco,7.34,groceries
+615,2015-05-04,Forever 21,12.1,clothing
+616,2015-05-04,ATM Instant Teller 483 Dundas Street,700.0,cash & atm
+617,2015-05-04,Feds Used Book,158.76,books
+618,2015-05-04,Fine Food Marke,7.74,food & dining
+619,2015-05-04,Winners,101.65,clothing
+620,2015-05-04,Norton,100.0,electronics & software
+621,2015-05-04,Babu Take Out,6.0,
+622,2015-05-04,Winners,16.94,clothing
+623,2015-05-04,ATM Instant Teller 10 Dundas Street,40.0,cash & atm
+624,2015-05-04,ATM Instant Teller 483 Dundas Street,250.0,income
+625,2015-05-04,Scaddabush Down,9.6,
+626,2015-05-04,Big Slice,10.03,
+627,2015-05-04,Dayali,114.93,
+628,2015-05-04,KFC,2.4,fast food
+629,2015-05-04,Metro,2.0,groceries
+630,2015-05-04,J.Crew,38.63,clothing
+631,2015-05-01,Longo,8.03,groceries
+632,2015-05-01,Coin Dep,10.65,income
+633,2015-05-01,Tim Horton's,1.35,coffee shops
+634,2015-05-01,Shoppers Drug Mart,3.38,pharmacy
+635,2015-04-30,Account Maintenance Fee,82.9,bank fee
+636,2015-04-30,Purchase Jw,6.78,home improvement
+637,2015-04-30,Account Maintenance Fee,82.9,bank fee
+638,2015-04-30,Smoque N Bones,63.55,restaurants
+639,2015-04-30,Tortilla Flats,12.48,
+640,2015-04-30,Rabba Fine Foods,9.36,groceries
+641,2015-04-30,Passbook Fee,2.25,fees & charges
+642,2015-04-30,Longo F,5.63,groceries
+643,2015-04-30,Druxy,9.04,
+644,2015-04-29,Longo,5.49,groceries
+645,2015-04-29,Transfer Pay Cibc,1434.96,transfer
+646,2015-04-29,Papaya Island,6.75,
+647,2015-04-29,Iq Food Br,10.0,food & dining
+648,2015-04-29,McDonald's,4.62,fast food
+649,2015-04-29,Internet Banking Internet,3000.0,
+650,2015-04-28,Rabba Fine Foods,2.47,groceries
+651,2015-04-28,Gateway,3.63,electronics & software
+652,2015-04-28,Far Niente Fo,10.12,
+653,2015-04-28,McDonald's,4.62,fast food
+654,2015-04-27,Sin Redemptio,20.48,
+655,2015-04-27,Sansotei Ramen,12.35,restaurants
+656,2015-04-27,Marche Restaura,10.16,restaurants
+657,2015-04-27,Longo,5.74,groceries
+658,2015-04-27,Second Cup,3.16,coffee shops
+659,2015-04-27,ATM Instant Teller,100.0,income
+660,2015-04-27,Second Cup,2.0,coffee shops
+661,2015-04-27,Second Cup,2.36,coffee shops
+662,2015-04-27,Coin Dep,164.57,income
+663,2015-04-27,Univ Wtrloo X,2200.18,tuition
+664,2015-04-24,Z Teca Gourmet,10.0,
+665,2015-04-24,Z Teca Gourmet,10.0,
+666,2015-04-23,Mmmarvellous Mm,2.09,
+667,2015-04-23,Longo,9.64,groceries
+668,2015-04-23,Longo,5.41,groceries
+669,2015-04-23,Far Niente Fo,11.25,
+670,2015-04-23,McDonald's,4.62,fast food
+671,2015-04-23,Sin Redemptio,19.01,
+672,2015-04-23,Mmmarvellous Mm,2.09,
+673,2015-04-23,McDonald's,4.62,fast food
+674,2015-04-23,Far Niente Fo,11.25,
+675,2015-04-23,Longo,9.64,groceries
+676,2015-04-23,Sin Redemptio,19.01,
+677,2015-04-23,Longo,5.41,groceries
+678,2015-04-22,Longo,3.94,groceries
+679,2015-04-22,Far Niente Fo,5.93,
+680,2015-04-22,Valley Point,9.04,
+681,2015-04-22,Far Niente Fo,5.93,
+682,2015-04-22,Valley Point,9.04,
+683,2015-04-22,Longo,3.94,groceries
+684,2015-04-22,Longo F,11.6,groceries
+685,2015-04-21,Longo,14.24,groceries
+686,2015-04-21,Rabba Fine Foods,1.12,groceries
+687,2015-04-21,Yogen Fruz,3.04,fast food
+688,2015-04-21,Rabba Fine Foods,2.25,groceries
+689,2015-04-21,Longo,3.66,groceries
+690,2015-04-21,Marche Restaura,1.77,restaurants
+691,2015-04-21,Ali Baba Grou,5.65,
+692,2015-04-21,Longo,3.66,groceries
+693,2015-04-21,Yogen Fruz,3.04,fast food
+694,2015-04-21,Longo,14.24,groceries
+695,2015-04-21,Rabba Fine Foods,2.25,groceries
+696,2015-04-21,Marche Restaura,1.77,restaurants
+697,2015-04-21,Ali Baba Grou,5.65,
+698,2015-04-21,Rabba Fine Foods,1.12,groceries
+699,2015-04-20,Longo,5.74,groceries
+700,2015-04-20,Longo,11.0,groceries
+701,2015-04-20,All Star Wings,22.62,restaurants
+702,2015-04-20,Longo,5.74,groceries
+703,2015-04-20,Longo,11.0,groceries
+704,2015-04-20,All Star Wings,22.62,restaurants
+705,2015-04-17,Longo,4.19,groceries
+706,2015-04-17,Longo,5.74,groceries
+707,2015-04-17,Shoppers Drug Mart,15.81,pharmacy
+708,2015-04-16,Longo,3.66,groceries
+709,2015-04-16,Marche Restaura,1.77,restaurants
+710,2015-04-16,Lou Dawg,16.03,
+711,2015-04-15,Longo,3.66,groceries
+712,2015-04-15,Rabba Fine Foods,1.12,groceries
+713,2015-04-15,Pumpernickels,8.98,
+714,2015-04-15,Marche Restaura,1.84,restaurants
+715,2015-04-15,Rabba Fine Foods,4.29,groceries
+716,2015-04-15,Burrito Bandido,12.1,
+717,2015-04-14,Longo,5.74,groceries
+718,2015-04-14,Transfer Pay Cibc,1434.96,transfer
+719,2015-04-14,Valley Point,9.04,
+720,2015-04-14,McDonald's,4.62,fast food
+721,2015-04-14,Rabba Fine Foods,2.25,groceries
+722,2015-04-13,Metro,3.82,groceries
+723,2015-04-13,Longo,2.61,groceries
+724,2015-04-13,W Burger Bar,23.06,fast food
+725,2015-04-13,Longo,13.19,groceries
+726,2015-04-13,Salad King,13.0,restaurants
+727,2015-04-13,Wendy's,1.77,fast food
+728,2015-04-13,Banh Mi Boys,11.28,
+729,2015-04-10,Marche Restaura,1.84,restaurants
+730,2015-04-10,Longo,3.66,groceries
+731,2015-04-10,Longo,12.29,groceries
+732,2015-04-09,Longo,4.19,groceries
+733,2015-04-09,Marche Restaura,1.84,restaurants
+734,2015-04-09,Yogen Fruz,3.04,fast food
+735,2015-04-09,Ali Baba Grou,7.06,
+736,2015-04-09,Extreme Pita,10.15,fast food
+737,2015-04-08,Yogen Fruz,3.04,fast food
+738,2015-04-08,Marche Restaura,3.61,restaurants
+739,2015-04-08,Longo,3.66,groceries
+740,2015-04-08,Rabba Fine Foods,1.34,groceries
+741,2015-04-08,Longo,12.03,groceries
+742,2015-04-08,Bbs Vrtl Brk,0.35,
+743,2015-04-07,Longo,5.64,groceries
+744,2015-04-07,Longo,5.74,groceries
+745,2015-04-07,McDonald's,1.77,fast food
+746,2015-04-07,Longo,16.17,groceries
+747,2015-04-07,Rabba Fine Foods,2.25,groceries
+748,2015-04-06,Chatime,5.65,
+749,2015-04-06,Longo,13.19,groceries
+750,2015-04-06,T & T Supermarket,1.34,groceries
+751,2015-04-06,Longo,6.06,groceries
+752,2015-04-06,Yummy Sushi,30.5,restaurants
+753,2015-04-02,McDonald's,1.77,fast food
+754,2015-04-02,Longo,13.72,groceries
+755,2015-04-02,Longo,3.66,groceries
+756,2015-04-02,Marche Restaura,1.84,restaurants
+757,2015-04-02,Rabba Fine Foods,5.6,groceries
+758,2015-04-01,Druxy,9.04,
+759,2015-04-01,Longo,3.66,groceries
+760,2015-04-01,Longo F,2.76,groceries
+761,2015-03-31,Account Maintenance Fee,74.9,bank fee
+762,2015-03-31,Ali Baba Grou,5.65,
+763,2015-03-31,Account Maintenance Fee,74.9,bank fee
+764,2015-03-31,Longo,3.66,groceries
+765,2015-03-31,Longo,12.82,groceries
+766,2015-03-31,Branch Overdraft Interest,0.82,finance charge
+767,2015-03-31,Marche Restaura F,1.84,restaurants
+768,2015-03-31,Yogen Fruz,3.52,fast food
+769,2015-03-31,Other Bank Fees,1.5,bank fee
+770,2015-03-31,Withdrawal Fees,1.25,bank fee
+771,2015-03-31,Passbook Fee,2.25,fees & charges
+772,2015-03-30,Reds Midtown Ta,15.57,
+773,2015-03-30,Big Slice,5.5,
+774,2015-03-30,Longo,9.68,groceries
+775,2015-03-30,Transfer Pay Cibc,1434.96,transfer
+776,2015-03-30,Longo,13.46,groceries
+777,2015-03-30,ATM Fee,2.0,atm fee
+778,2015-03-30,Non Td ATM,100.0,cash & atm
+779,2015-03-30,Shangri La Hote,51.98,
+780,2015-03-30,Smoke Poutine,11.86,
+781,2015-03-30,Shangri La Hote,18.19,
+782,2015-03-27,Thai Island,7.9,restaurants
+783,2015-03-27,McDonald's,1.46,fast food
+784,2015-03-27,Longo,5.74,groceries
+785,2015-03-26,Marche Restaura,2.61,restaurants
+786,2015-03-26,Longo,5.74,groceries
+787,2015-03-26,McDonald's,4.19,fast food
+788,2015-03-26,Longo,13.46,groceries
+789,2015-03-26,Chatime F,5.31,coffee shops
+790,2015-03-25,Longo,12.82,groceries
+791,2015-03-25,Wild Wing Toron,22.76,restaurants
+792,2015-03-25,Longo F,5.4,groceries
+793,2015-03-24,Longo,10.61,groceries
+794,2015-03-24,Marche Restaura F,1.84,restaurants
+795,2015-03-23,Marche Restaura,1.84,restaurants
+796,2015-03-23,Michael Angelo,13.26,
+797,2015-03-23,Michael Angelo,0.69,
+798,2015-03-23,Xe Lua Restaura,17.72,restaurants
+799,2015-03-23,Longo,7.6,groceries
+800,2015-03-23,Longo,9.06,groceries
+801,2015-03-23,Top Sushi,14.2,restaurants
+802,2015-03-23,Winners,16.94,clothing
+803,2015-03-23,Sukho Thai,121.63,restaurants
+804,2015-03-23,Shoppers Drug Mart,15.22,pharmacy
+805,2015-03-20,Longo,3.66,groceries
+806,2015-03-20,Marche Restaura,1.84,restaurants
+807,2015-03-20,McDonald's,4.62,fast food
+808,2015-03-20,Tamarind Kitche,10.57,restaurants
+809,2015-03-20,Td ATM Dep,172.85,income
+810,2015-03-20,Yogen Fruz,5.31,fast food
+811,2015-03-19,Ali Baba Grou,5.65,
+812,2015-03-19,Marche Restaura,1.84,restaurants
+813,2015-03-19,Jelly Modern Do,3.1,
+814,2015-03-19,Longo,12.0,groceries
+815,2015-03-19,Shoppers Drug Mart,4.73,pharmacy
+816,2015-03-19,Longo,3.66,groceries
+817,2015-03-19,McDonald's,2.51,fast food
+818,2015-03-18,Rabba Fine Foods,1.34,groceries
+819,2015-03-18,A & W,1.84,fast food
+820,2015-03-18,Longo,13.72,groceries
+821,2015-03-18,Longo,3.66,groceries
+822,2015-03-18,A & W,4.8,fast food
+823,2015-03-18,Longo,5.15,groceries
+824,2015-03-18,Ali Baba Grou,5.65,
+825,2015-03-18,W Burger Bar,9.09,fast food
+826,2015-03-18,Frank Oak,120.72,
+827,2015-03-17,Longo,6.06,groceries
+828,2015-03-17,Five Guys,14.54,fast food
+829,2015-03-17,Longo,11.13,groceries
+830,2015-03-17,Winners,14.68,clothing
+831,2015-03-16,Shoppers Drug Mart,10.16,pharmacy
+832,2015-03-16,Longo,1.35,groceries
+833,2015-03-16,Hooters,31.51,restaurants
+834,2015-03-16,Longo,5.96,groceries
+835,2015-03-16,Balzac Coffee,5.03,coffee shops
+836,2015-03-16,Longo,11.39,groceries
+837,2015-03-16,Shoppers Drug Mart,24.31,pharmacy
+838,2015-03-16,Bmv Book,8.39,books
+839,2015-03-13,Longo,9.71,groceries
+840,2015-03-13,Longo,0.62,groceries
+841,2015-03-13,Pizza Pizza,4.73,fast food
+842,2015-03-13,Transfer Pay Cibc,1434.96,transfer
+843,2015-03-12,Manchu Wok,5.97,restaurants
+844,2015-03-12,Longo,1.12,groceries
+845,2015-03-12,Longo,6.31,groceries
+846,2015-03-12,Longo,2.65,groceries
+847,2015-03-12,Longo F,11.3,groceries
+848,2015-03-11,Iq Food Br,10.49,food & dining
+849,2015-03-11,Bagel Shop,2.12,fast food
+850,2015-03-11,Td ATM Withdrawal,80.0,cash & atm
+851,2015-03-10,Longo,3.66,groceries
+852,2015-03-10,Longo,9.71,groceries
+853,2015-03-09,Longo,3.66,groceries
+854,2015-03-09,McDonald's,1.67,fast food
+855,2015-03-09,Longo,3.94,groceries
+856,2015-03-09,Longo,4.66,groceries
+857,2015-03-09,Tim Horton's,1.04,coffee shops
+858,2015-03-09,Bay Queen,22.6,
+859,2015-03-09,Royal,76.89,financial
+860,2015-03-06,A & W,9.89,fast food
+861,2015-03-06,Longo,4.19,groceries
+862,2015-03-06,Kirei Sushi Bar,16.25,restaurants
+863,2015-03-06,Mac's,80.0,shopping
+864,2015-03-06,Rosewater Suppe,21.45,
+865,2015-03-06,Longo,5.93,groceries
+866,2015-03-05,Longo,6.31,groceries
+867,2015-03-05,Longo F,5.18,groceries
+868,2015-03-04,McDonald's,4.62,fast food
+869,2015-03-04,Sushi Shop Fron,11.48,restaurants
+870,2015-03-04,Longo,6.31,groceries
+871,2015-03-04,St Louis Bar,13.0,alcohol & bars
+872,2015-03-03,McDonald's,1.77,fast food
+873,2015-03-03,Longo,5.93,groceries
+874,2015-03-03,Shoppers Drug Mart,3.72,pharmacy
+875,2015-03-03,Longo F,6.47,groceries
+876,2015-03-02,McDonald's,1.77,fast food
+877,2015-03-02,McDonald's,1.46,fast food
+878,2015-03-02,Longo,4.19,groceries
+879,2015-03-02,Td ATM Withdrawal,40.0,cash & atm
+880,2015-02-27,Transfer Pay Cibc,1434.96,transfer
+881,2015-02-27,Longo,2.05,groceries
+882,2015-02-27,Account Maintenance Fee,57.9,bank fee
+883,2015-02-27,McDonald's,10.05,fast food
+884,2015-02-27,Account Maintenance Fee,57.9,bank fee
+885,2015-02-27,Branch Overdraft Interest,0.73,finance charge
+886,2015-02-27,Longo F,7.62,groceries
+887,2015-02-27,Passbook Fee,2.25,fees & charges
+888,2015-02-27,Eb National Bu,186.49,
+889,2015-02-27,Recap Bal Forward,0.0,
+890,2015-02-26,Longo,1.67,groceries
+891,2015-02-26,Tamarind Kitche,7.68,restaurants
+892,2015-02-26,Longo,5.64,groceries
+893,2015-02-26,Longo,4.49,groceries
+894,2015-02-26,Starbucks,21.3,coffee shops
+895,2015-02-26,Longo F,4.19,groceries
+896,2015-02-25,Longo,4.19,groceries
+897,2015-02-24,McDonald's,1.77,fast food
+898,2015-02-24,Jimmy Greek,11.69,restaurants
+899,2015-02-24,Longo F,6.31,groceries
+900,2015-02-23,A & W,1.84,fast food
+901,2015-02-23,Winners,10.0,clothing
+902,2015-02-23,Il Bun Ji,7.82,restaurants
+903,2015-02-23,Longo,4.19,groceries
+904,2015-02-23,St Louis Bar,25.98,alcohol & bars
+905,2015-02-23,Thai Island,8.9,restaurants
+906,2015-02-23,Il Bun Ji,14.95,restaurants
+907,2015-02-23,Beck Taxi,34.75,rental car & taxi
+908,2015-02-20,Longo,4.19,groceries
+909,2015-02-20,Big Daddy Tor,49.38,restaurants
+910,2015-02-20,McDonald's,1.67,fast food
+911,2015-02-20,Steve Madden,141.24,clothing
+912,2015-02-19,Longo,0.62,groceries
+913,2015-02-19,Longo,5.48,groceries
+914,2015-02-19,Longo,4.53,groceries
+915,2015-02-19,McDonald's,1.77,fast food
+916,2015-02-18,Longo,16.43,groceries
+917,2015-02-18,ATM Instant Teller,60.0,cash & atm
+918,2015-02-18,Longo,4.19,groceries
+919,2015-02-17,McDonald's,2.3,fast food
+920,2015-02-17,Longo,7.99,groceries
+921,2015-02-17,Limo Taxi P,37.0,rental car & taxi
+922,2015-02-17,Longo F,4.19,groceries
+923,2015-02-17,Longo F,0.62,groceries
+924,2015-02-13,Transfer Pay Cibc,1434.96,transfer
+925,2015-02-13,Longo,8.13,groceries
+926,2015-02-13,Marche Restaura,11.38,restaurants
+927,2015-02-13,Longo F,7.99,groceries
+928,2015-02-12,McDonald's,1.77,fast food
+929,2015-02-12,Longo,5.96,groceries
+930,2015-02-12,Longo,12.03,groceries
+931,2015-02-11,Shoppers Drug Mart,6.2,pharmacy
+932,2015-02-11,Longo,6.31,groceries
+933,2015-02-11,Longo,0.62,groceries
+934,2015-02-11,McDonald's,4.62,fast food
+935,2015-02-10,Longo,6.31,groceries
+936,2015-02-10,Kupfert Kim,12.5,
+937,2015-02-10,Longo,0.62,groceries
+938,2015-02-10,Thai Island,10.15,restaurants
+939,2015-02-09,Harvey's,10.84,groceries
+940,2015-02-09,Longo,4.19,groceries
+941,2015-02-06,A,11.5,
+942,2015-02-06,Reds Midtown Ta,20.67,
+943,2015-02-06,McDonald's,4.19,fast food
+944,2015-02-06,Beck Taxi,34.75,rental car & taxi
+945,2015-02-06,Pure Spirits,48.79,alcohol & bars
+946,2015-02-05,Longo,4.19,groceries
+947,2015-02-05,Longo,1.04,groceries
+948,2015-02-05,Sean Quality,33.89,
+949,2015-02-04,Iq Food Br,10.0,food & dining
+950,2015-02-04,Longo,4.79,groceries
+951,2015-02-04,Longo,4.19,groceries
+952,2015-02-04,McDonald's,1.46,fast food
+953,2015-02-04,Longo,0.62,groceries
+954,2015-02-04,Branch Correction,100.0,service fee
+955,2015-02-04,Transfer Represented Dr,100.0,transfer
+956,2015-02-03,Mucho Burrito,10.45,
+957,2015-02-03,Longo,4.19,groceries
+958,2015-02-03,Longo,2.76,groceries
+959,2015-02-02,McDonald's,2.3,fast food
+960,2015-02-02,Esplanade Bier,7.76,
+961,2015-02-02,Aa Taxi,14.25,
+962,2015-02-02,Second Cup,3.67,coffee shops
+963,2015-02-02,Longo,12.03,groceries
+964,2015-02-02,Union Station B,30.0,public transportation
+965,2015-02-02,Longo,4.19,groceries
+966,2015-02-02,Td Offer Rebate,10.0,income
+967,2015-01-30,Account Maintenance Fee,3.9,bank fee
+968,2015-01-30,Transfer Pay Cibc,1434.96,transfer
+969,2015-01-30,Account Maintenance Fee,3.9,bank fee
+970,2015-01-30,Richmond Statio,51.14,
+971,2015-01-30,Rosewater Suppe,3.73,
+972,2015-01-30,Branch Correction,100.0,service fee
+973,2015-01-30,Non-Sufficient Funds Fee,45.0,bank fee
+974,2015-01-30,Branch Overdraft Interest,0.05,finance charge
+975,2015-01-30,Transfer Investment Cibcsi,100.0,investments
+976,2015-01-30,Withdrawal Fees,16.0,bank fee
+977,2015-01-30,Passbook Fee,2.25,fees & charges
+978,2015-01-29,Longo,6.31,groceries
+979,2015-01-29,Longo,1.66,groceries
+980,2015-01-28,Longo,3.94,groceries
+981,2015-01-28,Longo,4.19,groceries
+982,2015-01-28,Longo,2.65,groceries
+983,2015-01-28,Pai,28.6,
+984,2015-01-27,Longo F,6.08,groceries
+985,2015-01-26,Shoppers Drug Mart,10.16,pharmacy
+986,2015-01-26,Kupfert Kim,11.74,
+987,2015-01-23,St Louis Bar,13.91,alcohol & bars
+988,2015-01-23,Go Transit Unio,36.0,public transportation
+989,2015-01-21,Td ATM Withdrawal,200.0,cash & atm
+990,2015-01-20,City Taxi,61.5,rental car & taxi
+991,2015-01-20,Marche Restaura,15.16,restaurants
+992,2015-01-20,Jugo Juice,10.62,fast food
+993,2015-01-19,McDonald's,0.62,fast food
+994,2015-01-19,Td ATM Withdrawal,100.0,cash & atm
+995,2015-01-19,Dineen Coffee C,13.11,coffee shops
+996,2015-01-19,Salon De Elepha,42.88,personal care
+997,2015-01-19,Bagel Shop,3.59,fast food
+998,2015-01-19,Bay Queen,67.24,
+999,2015-01-19,Nicholby Gift,4.51,gift
+1000,2015-01-16,Go Transit Unio,7.3,public transportation
+1001,2015-01-15,Go Transit Unio,7.3,public transportation
+1002,2015-01-15,Fresh West Gril,11.34,coffee shops
+1003,2015-01-14,Goodlife Fitnes,15.0,gym
+1004,2015-01-14,Extreme Pita,8.69,fast food
+1005,2015-01-13,Wvrst,26.73,
+1006,2015-01-13,Jimmy Greek F,9.32,restaurants
+1007,2015-01-12,Bbs Securities Msp,0.35,income
+1008,2015-01-12,Bagel Shop,3.59,fast food
+1009,2015-01-12,Winners,19.2,clothing
+1010,2015-01-12,McDonald's,3.14,fast food
+1011,2015-01-09,Edo Japan F,12.31,fast food
+1012,2015-01-08,Jugo Juice,5.25,fast food
+1013,2015-01-07,Oliver Bonaci,40.88,restaurants
+1014,2015-01-07,Thai Island F,11.95,restaurants
+1015,2015-01-06,Pumpernickels F,6.78,coffee shops
+1016,2015-01-06,All Star Wings,14.24,restaurants
+1017,2015-01-06,Shoppers Drug Mart,12.41,pharmacy
+1018,2015-01-06,Jimmy Greek F,10.56,restaurants
+1019,2015-01-05,Aroma Cafe,8.42,restaurants
+1020,2015-01-05,Starbucks,20.0,coffee shops
+1021,2015-01-05,McDonald's,5.93,fast food
+1022,2015-01-05,Shoppers Drug Mart,10.05,pharmacy
+1023,2015-01-05,Jugo Juice,5.25,fast food
+1024,2015-01-02,Tangerine,2.0,restaurants
+1025,2015-01-02,Ne Sushi,19.64,restaurants
+1026,2014-10-21,Pita Factor F,7.0,coffee shops
+1027,2014-10-15,Pita Factor,9.61,
+1028,2014-10-14,Aunty Kitchen F,14.85,coffee shops
+1029,2014-10-08,Jugo Juice,10.06,fast food
+1030,2014-10-08,Sushi Shop Fron,13.39,restaurants
+1031,2014-10-08,Shoppers Drug Mart,10.17,pharmacy
+1032,2014-10-08,Tim Horton's,1.65,coffee shops
+1033,2014-10-08,Little Burgundy,71.19,clothing
+1034,2014-10-08,Go Transit Unio,16.1,public transportation
+1035,2014-10-08,Starbucks,2.36,coffee shops
+1036,2014-10-08,McDonald's,9.14,fast food
+1037,2014-10-08,Forever 21,31.53,clothing
+1038,2014-10-07,Kabob Hut,10.15,
+1039,2014-10-03,Sobeys,147.3,groceries
+1040,2014-10-03,Td ATM Withdrawal,100.0,cash & atm
+1041,2014-09-30,Interest,0.22,interest income
+1042,2014-09-30,Harvey's,9.48,groceries
+1043,2014-09-29,Ritz Caribbean F,5.64,coffee shops
+1044,2014-09-29,Tim Horton's,0.65,coffee shops
+1045,2014-09-29,Famoso Neapolit,21.7,restaurants
+1046,2014-09-29,Burger King,3.13,fast food
+1047,2014-09-29,Winners,20.31,clothing
+1048,2014-09-29,Go Transit Unio,16.1,public transportation
+1049,2014-09-29,Second Cup,2.47,coffee shops
+1050,2014-09-29,W Burger Bar,17.87,fast food
+1051,2014-09-29,Loblaws,0.66,groceries
+1052,2014-09-26,Pita Factor F,7.0,coffee shops
+1053,2014-09-24,Burger King,5.64,fast food
+1054,2014-09-22,Td ATM Dep,4500.0,income
+1055,2014-09-17,E Tfr C,1500.0,income
+1056,2014-09-17,Harvey's,10.15,groceries
+1057,2014-09-15,Burger King,6.31,fast food
+1058,2014-09-08,Pita Factor F,7.0,coffee shops
+1059,2014-09-03,Gm Us Cheque,6.2,income
+1060,2014-09-02,Td ATM Withdrawal,20.0,cash & atm
+1061,2014-09-02,Metro,0.89,groceries
+1062,2014-09-02,Great Steak,8.03,restaurants
+1063,2014-09-02,Td ATM Dep,100.0,income
+1064,2014-08-29,Interest,0.07,interest income
+1065,2014-08-28,Starbucks,1.27,coffee shops
+1066,2014-08-26,Tim Horton's,4.15,coffee shops
+1067,2014-08-26,Tim Horton's,3.45,coffee shops
+1068,2014-08-25,Winners,31.04,clothing
+1069,2014-08-25,Smoke Poutine,9.03,
+1070,2014-08-25,Beck Taxi,28.5,rental car & taxi
+1071,2014-08-25,Real Sports Bar,41.14,alcohol & bars
+1072,2014-08-25,Td ATM Withdrawal,20.0,cash & atm
+1073,2014-08-25,Stock Restauran,25.32,restaurants
+1074,2014-08-25,Tim Horton's,1.04,coffee shops
+1075,2014-08-25,York Region Tra,4.0,public transportation
+1076,2014-08-25,Smoke Poutine,2.26,
+1077,2014-08-25,Tim Horton's,1.35,coffee shops
+1078,2014-08-21,Louis Kouzina,29.28,restaurants
+1079,2014-08-18,Jugo Juice,11.47,fast food
+1080,2014-08-18,Tim Horton's,3.22,coffee shops
+1081,2014-08-18,Chatime F,5.31,coffee shops
+1082,2014-08-14,Jugo Juice,7.29,fast food
+1083,2014-07-31,Interest,0.09,interest income
+1084,2014-07-31,Recap Bal Forward,0.0,income
+1085,2014-07-28,Paradies,10.07,shopping
+1086,2014-07-25,Starbucks,20.0,coffee shops
+1087,2014-07-25,H&M,39.38,clothing
+1088,2014-07-24,Big Fat Burrito,11.25,
+1089,2014-07-24,Spring,42.35,
+1090,2014-07-24,Big Fat Burrito,2.5,
+1091,2014-07-23,Wendy's,5.64,fast food
+1092,2014-07-23,Tim Horton's,3.14,coffee shops
+1093,2014-07-21,Sapporo Sushi,15.2,restaurants
+1094,2014-07-18,Continental,31.64,air travel
+1095,2014-07-17,Cachetmagzine F,12.05,
+1096,2014-07-17,Staples,13.0,office supplies
+1097,2014-07-15,Wendy's,7.33,fast food
+1098,2014-07-14,Tim Horton's,2.39,coffee shops
+1099,2014-07-14,Gateway,13.9,electronics & software
+1100,2014-07-14,Buk Chang Dong,10.08,restaurants
+1101,2014-07-11,Drake One Fifty,15.59,
+1102,2014-07-10,Earls King Stre,43.87,
+1103,2014-07-10,Sin Redemptio,9.03,
+1104,2014-07-09,Td ATM Withdrawal,20.0,cash & atm
+1105,2014-07-09,Kops Records,11.3,
+1106,2014-07-09,St Louis Bar,12.33,alcohol & bars
+1107,2014-07-08,Tim Horton's,1.56,coffee shops
+1108,2014-07-08,Wendy's,7.33,fast food
+1109,2014-07-07,Shoppers Drug Mart,10.16,pharmacy
